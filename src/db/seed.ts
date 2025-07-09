@@ -13,6 +13,9 @@ await seed(db, schema)
           name: f.companyName(),
           description: f.loremIpsum(),
         },
+        with: {
+          questions: 5,
+        },
       },
     }
   })
