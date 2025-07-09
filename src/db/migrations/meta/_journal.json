@@ -15,6 +15,13 @@
       "when": 1752069701864,
       "tag": "0001_last_skullbuster",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752076422341,
+      "tag": "0002_tired_malice",
+      "breakpoints": true
     }
   ]
 }
